@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Ash",
+        "role": "Attacker",
+        "nationality": "USA",
+        "ability": "M120 CREM"
+    },
+    {
+        "id": 2,
+        "name": "Jäger",
+        "role": "Defender",
+        "nationality": "Germany",
+        "ability": "ADS-MKIV"
+    },
+    {
+        "id": 3,
+        "name": "Sledge",
+        "role": "Attacker",
+        "nationality": "UK",
+        "ability": "Tactical Breaching Hammer"
+    },
+    {
+        "id": 4,
+        "name": "Rook",
+        "role": "Defender",
+        "nationality": "France",
+        "ability": "R1N 'Rhino' Armor"
+    }
+] 
